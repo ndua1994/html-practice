@@ -32,6 +32,16 @@ HTML Attributes
 - Attributes usually come in name/value pairs like: name="value"
 
 
+HTML headings are defined with the <h1> to <h6> tags.
+
+The HTML style attribute is used to add styles to an element, such as color, font, size, and more.
+Setting the style of an HTML element, can be done with the style attribute.
+
+The HTML style attribute has the following syntax:
+<tagname style="property:value;">
+
+
+
 TAGS
 -----------------
 
