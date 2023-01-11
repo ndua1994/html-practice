@@ -1,0 +1,39 @@
+Software requirements
+---------------------------
+
+- Subline text editor
+- XAMPP
+
+HTML
+---------------------------
+
+- HTML stands for hyper text markup language
+- HTML is the standard markup language for creating Web pages
+- HTML describes the structure of a Web page
+- HTML has variety of tags 
+  For Example :
+  <b>,<h1>,<img>,<br>
+- Most of the tags has opening and closing
+- HTML has an extension .html
+- HTML is not a case sensitive language
+
+
+HTML ELEMENT
+----------------------------------
+- An HTML element is defined by a start tag, some content, and an end tag.
+
+
+HTML Attributes
+-----------------------
+
+- All HTML elements can have attributes
+- Attributes provide additional information about elements
+- Attributes are always specified in the start tag
+- Attributes usually come in name/value pairs like: name="value"
+
+
+TAGS
+-----------------
+
+- <a> tag stands for anchor
+-
