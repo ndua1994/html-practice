@@ -40,6 +40,11 @@ Setting the style of an HTML element, can be done with the style attribute.
 The HTML style attribute has the following syntax:
 <tagname style="property:value;">
 
+unordered list
+ordered list
+
+
+list item
 
 
 TAGS
